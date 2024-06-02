@@ -21,7 +21,7 @@ Welcome to my GitHub profile. I'm @DevRaviSwami, a passionate developer and life
   - [LinkedIn](https://www.linkedin.com/in/yourprofile)
   - [Twitter](https://twitter.com/yourtwitterhandle)
 - 😄 **Pronouns:** 
-  - (He/Him) // Please select your preferred pronouns
+  - (He/Him) 
 - ⚡ **Fun Fact:** 
   - I love hiking and have climbed five of the highest peaks in my country.
 
@@ -64,7 +64,7 @@ Let's connect and create something amazing together! You can reach out to me via
 
 ## 😄 Pronouns
 
-I use **He/Him** // Update this if needed.
+I use **He/Him** 
 
 ---
 
